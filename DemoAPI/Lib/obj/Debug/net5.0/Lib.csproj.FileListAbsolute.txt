@@ -1,0 +1,15 @@
+C:\DemoAPI\Lib\bin\Debug\net5.0\Lib.deps.json
+C:\DemoAPI\Lib\bin\Debug\net5.0\Lib.runtimeconfig.json
+C:\DemoAPI\Lib\bin\Debug\net5.0\Lib.runtimeconfig.dev.json
+C:\DemoAPI\Lib\bin\Debug\net5.0\Lib.dll
+C:\DemoAPI\Lib\bin\Debug\net5.0\ref\Lib.dll
+C:\DemoAPI\Lib\bin\Debug\net5.0\Lib.pdb
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.csprojAssemblyReference.cache
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.dll
+C:\DemoAPI\Lib\obj\Debug\net5.0\ref\Lib.dll
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.pdb
+C:\DemoAPI\Lib\obj\Debug\net5.0\Lib.genruntimeconfig.cache
